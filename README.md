@@ -1,0 +1,1 @@
+This is my first personal portfolio website built using pure HTML. It includes sections like About Me, Skills, Projects, and Education. The project demonstrates my understanding of basic HTML elements such as tables, lists, forms, semantic tags, and multimedia embedding. This portfolio reflects my learning journey towards becoming a Full Stack Java Developer.
